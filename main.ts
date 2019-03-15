@@ -5,10 +5,10 @@ namespace multisprite {
 }
 
 class MultiSprite {
-    private sprites: Array<Sprite>();
+    // private sprites: Array<Sprite>();
 
-    add(sprite:Sprite):void {
+    // add(sprite:Sprite):void {
         
-        this.sprites.push(sprite);
-    }
+    //     this.sprites.push(sprite);
+    // }
 }
