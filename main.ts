@@ -6,7 +6,7 @@ class Farts {
     }
 
     public setVelocity(vx: number, vy: number) {
-        this.sprites.forEach(s=>
+        this.sprites.forEach(s=>{
             s.vx = vx;
             s.vy = vy;
         })
