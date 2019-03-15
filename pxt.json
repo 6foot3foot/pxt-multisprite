@@ -1,0 +1,12 @@
+{
+    "name": "pxt-multisprite",
+    "description": "A Multi Sprite",
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "dependencies": {
+        "game": "file:../game"
+    }
+}
